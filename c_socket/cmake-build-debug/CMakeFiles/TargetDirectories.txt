@@ -1,0 +1,2 @@
+/Users/btciab/code/github/project_c/c_socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/btciab/code/github/project_c/c_socket/cmake-build-debug/CMakeFiles/edit_cache.dir
